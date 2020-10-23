@@ -1,0 +1,36 @@
+body{
+	background: url("../images/bgtwo.jpg")
+		center center fixed;
+}
+
+.Mainheading{
+	
+	font-size: 200%;
+	font-family: 'Balsamiq Sans', cursive;
+	background-color: #48A081;
+	margin:100px auto;
+	width: 400px;
+	color: white;
+	
+	border: 3px solid red;
+	border-radius:30px;
+    text-align: center;
+	opacity: 0.9;
+}
+
+h1{
+	color:orange;
+}
+
+button{
+	font-family: 'Balsamiq Sans', cursive;
+	border-radius: 20px;
+}
+
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
